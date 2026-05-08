@@ -31,17 +31,9 @@ Analyzing how AI tool adoption impacts employee productivity and burnout risk us
 
 ---
 
-## ⚙️ Run It
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn jupyter
-jupyter notebook AI_Notebook_Final.ipynb
-```
-> Run **Kernel → Restart & Run All** to execute all cells in order.
-
 ---
 
-## 🛠️ Stack
+## 🛠️ Technologies Used
 `Python` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Jupyter`
 
 ---
