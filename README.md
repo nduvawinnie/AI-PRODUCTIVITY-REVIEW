@@ -1,16 +1,16 @@
-# 🤖 AI Workplace Productivity
+#  AI Workplace Productivity
 
 Analyzing how AI tool adoption impacts employee productivity and burnout risk using **Python**, **EDA**, and **Machine Learning**.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - **Source:** [Kaggle](https://www.kaggle.com/datasets/vishardmehta/ai-tool-usage-and-workplace-productivity-dataset)
 - **4,500 employees** · **6 job roles** · **15 features** · **0 null values**
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 | # | Finding |
 |---|---------|
@@ -22,7 +22,7 @@ Analyzing how AI tool adoption impacts employee productivity and burnout risk us
 
 ---
 
-## 🤖 ML Models
+##  ML Models
 
 | Model | Target | Result |
 |-------|--------|--------|
@@ -33,7 +33,7 @@ Analyzing how AI tool adoption impacts employee productivity and burnout risk us
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 `Python` · `Pandas` · `Scikit-learn` · `Matplotlib` · `Seaborn` · `Jupyter`
 
 ---
