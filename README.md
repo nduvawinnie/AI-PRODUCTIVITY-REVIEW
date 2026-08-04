@@ -12,7 +12,7 @@ Analyzing how AI tool adoption impacts employee productivity and burnout risk us
 
 ##  Key Findings
 
-| # | Finding |
+| | Finding |
 |---|---------|
 | 1 | High AI users do **54% less manual work** than low AI users |
 | 2 | Developers & Writers use AI most · Managers & Designers the least |
